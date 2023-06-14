@@ -1,4 +1,4 @@
-<img src="./img/logo.png"/>
+<img src="./src/img/logo.png"/>
 
 ## 🥼 Clínica Médica
 Neste projeto aprendi a utilizar links, tabelas, mas principalmente um layout responsivo.
